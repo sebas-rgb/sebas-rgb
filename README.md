@@ -1,49 +1,131 @@
-<!-- ![banner](https://github.com/user-attachments/assets/5acb5424-8a32-4ee5-91c5-31e5df7424f6) -->
-
 <div align="center">
 
-# hey, i'm maple
+# Sebastián López ⚙️
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=full+stack+dev+%7C+artist+%7C+cloud+nerd;i+break+things+and+sometimes+fix+them;probably+debugging+rn+tbh)](https://git.io/typing-svg)
+### software engineering student • backend builder • distributed systems enthusiast
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sebastián%20López&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20real%20systems%20with%20code%2C%20logic%20and%20architecture&descAlignY=55&descSize=16" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&pause=1200\&color=7DD3FC\&center=true\&vCenter=true\&width=900\&lines=Software+Engineering+student+focused+on+real-world+solutions;Java+%7C+Python+%7C+JavaScript+%7C+C%23+%7C+SQL;Distributed+systems%2C+expert+systems%2C+backend+and+databases;Turning+ideas+into+functional+projects+with+structure+and+purpose)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
+## 🚀 About Me
+
+```yaml
+name: Sebastián López
+career: Software Engineering
+semester: 4th
+location: Colombia
+focus:
+  - Backend development
+  - Distributed systems
+  - Expert systems and fuzzy logic
+  - Databases and system modeling
+  - Web applications and integrations
+```
+
+I enjoy building projects that combine **logic, architecture and functionality**, from distributed systems in Java and database-driven applications to expert systems, web platforms and process-oriented software. I like understanding how things work internally and turning that into solutions that are clear, structured and actually useful.
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+
+### Frameworks, Tools and Platforms
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge\&logo=blender\&logoColor=white)
+
+---
+
+## 🏗️ What I Work On
+
+```text
+> Distributed systems with Java RMI
+> Database-connected desktop applications
+> Expert systems with rule-based logic and fuzzy logic
+> Web applications with backend + frontend integration
+> ERP-style modular systems and data modeling
+> Academic and real-world software documentation
+```
+
+Some of the kinds of projects I’ve worked on include:
+
+* **Distributed systems in Java**, using RMI for remote communication.
+* **Database-driven desktop apps**, such as ATM-style simulations connected to Supabase.
+* **Expert systems**, including triage systems with forward chaining and fuzzy logic.
+* **Web applications**, combining backend, frontend and service integration.
+* **Structured software models**, such as ER diagrams, modular systems and C4-style design.
+
+---
+
+## 📚 Current Interests
+
+* Software architecture
+* Microservices and service communication
+* Artificial intelligence applied to real systems
+* Cloud-connected applications
+* Database design and optimization
+* Backend development with strong logic and persistence
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
 
-### stats
+![](https://github-readme-stats.vercel.app/api?username=sebas-rgb\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true\&border_radius=12)
 
-![](https://github-readme-stats.vercel.app/api?username=maplehugs&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&border_radius=12)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sebas-rgb\&theme=tokyonight\&hide_border=true\&border_radius=12)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=maplehugs&theme=dracula&hide_border=true&border_radius=12)
-
-![](https://github-contributor-stats.vercel.app/api?username=maplehugs&limit=5&theme=dracula&combine_all_yearly_contributions=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sebas-rgb&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
 ---
 
-### tech stack
+## 🧠 Mindset
 
-| | |
-|---|---|
-| **languages** — the ones i mass produce bugs in | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **frameworks & tools** — i swear i'll add more later | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) |
-| **cloud & hosting** — may or may not have debts with some of these | ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) |
-| **databases** — i used to store info here, keyword "used to" | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **ml / ai** — they will control us one day | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
-| **creative** — i have made awful drawings here | ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Clip Studio Paint](https://img.shields.io/badge/Clip%20Studio%20Paint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) |
-| **version control** — hey you seem familiar, do i know you? | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+```java
+while (learning) {
+    build();
+    test();
+    improve();
+}
+```
+
+I like projects that go beyond theory: systems that can be tested, explained, documented and improved. For me, programming is not only about making something work, but about building it with enough structure that others can understand, maintain and expand it.
+
+---
+
+## 📫 Profile Note
+
+This profile is a space where I share projects related to **software engineering, backend development, distributed systems, databases and applied logic**. Most of what I build is driven by learning, problem solving and turning ideas into functional implementations.
 
 ---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maplehugs&theme=dracula&hide_border=true&area=true&custom_title=contribution%20graph" width="95%"/>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=maplehugs&color=bd93f9&style=for-the-badge&label=profile+views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=140&section=footer" width="100%"/>
 
 </div>
