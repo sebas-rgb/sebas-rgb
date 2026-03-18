@@ -17,7 +17,7 @@
 ```yaml
 name: Sebastián López
 career: Software Engineering
-semester: 4th
+semester: 7th
 location: Colombia
 focus:
   - Backend development
